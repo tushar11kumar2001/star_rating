@@ -1,0 +1,21 @@
+
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #222;
+    }
+
+  .star{
+
+    font-size: 100px;
+    color: #241d1d;
+
+  }
+  .marked{
+    color: gold;
+  }
+
+  
