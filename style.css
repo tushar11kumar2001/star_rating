@@ -17,12 +17,18 @@
 
   .star{
     
-    font-size: 5em;
+    font-size: 100px;
     color: #241d1d;
 
   }
   .marked{
     color: gold;
+  }
+
+  @media (max-width:464px){
+    .star{
+        font-size: 50px;
+    }
   }
 
   
